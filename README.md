@@ -1,7 +1,6 @@
 # Prueba de documentación
-# Arduino Board Package to Debug Uno/ATmega328P with CH552 debugger in Arduino IDE 2.0.0
 
-**This repo is prepared for students in the Prototyping Electronic Devices class**
+**Prototyping Electronic Devices class**
 
 ## Hardware for debugging
 
